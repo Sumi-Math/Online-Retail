@@ -12,7 +12,7 @@ benefit of acquiring and keeping any given customer.
 
 ### Calculating CLV:
 
-* ** Step One ** - Segment customers with RFM (Recency- Frequency - Monetary) model:
+* **Step One** - Segment customers with RFM (Recency- Frequency - Monetary) model:
       * Here recency refers to the last time that a customer made a purchase. A customer who has made a purchase recently is more likely to make a repeat purchase than a customer
       who hasn’t made a purchase in a long time
       * Frequency refers to how many times a customer has made a purchase within a given time frame. A customer who makes purchases often is more likely to continue to come back than a customer who rarely makes
@@ -21,12 +21,12 @@ benefit of acquiring and keeping any given customer.
         
 By segmenting the customers with RFM, we’ll be able to analyze each group individually and determine which set of customers has the highest CLV.
 
-* ** Step Two ** - Giving a score for each variable (RFM variables) and create segment based on RFM:
+* **Step Two** - Giving a score for each variable (RFM variables) and create segment based on RFM:
       * Added up the score for each customer and listed a total under RFM Score.
       * Sorted data by RFM Score and divided results by highest, middle and lowest score.
       * The highest scoring results will be the most valuable customer segment.
       
-* ** Step Three ** - Calculating the Customer Lifetime Value for each customer segment
+* **Step Three** - Calculating the Customer Lifetime Value for each customer segment
        Now that we are all set, we'll calculate the CLV by applying the relevant formulas. We have applied the following formulas.
        
        Average Order Value per customer : Average Order Value = Total Sales / Order Count
