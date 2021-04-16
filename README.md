@@ -1,6 +1,6 @@
 # Online Retail - Calcutating CLV and Churn Rate of Customers
 
-In this project, we will calculate CLV ( Customer Lifetime Value) and the Churn Rate of customers. The main concept of the two aspects are discussed below.
+In this project, we calculated the CLV ( Customer Lifetime Value) and the Churn Rate of customers. The main concept of these two aspects are discussed below.
 
 ### Customer Lifetime Value (CLV): 
 
