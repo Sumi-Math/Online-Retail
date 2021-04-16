@@ -13,7 +13,7 @@ benefit of acquiring and keeping any given customer.
 ### Calculating CLV:
 
 * **Step One** - Segment customers with RFM (Recency- Frequency - Monetary) model:
-      * Here recency refers to the last time that a customer made a purchase. A customer who has made a purchase recently is more likely to make a repeat purchase than a customer
+      ** Here recency refers to the last time that a customer made a purchase. A customer who has made a purchase recently is more likely to make a repeat purchase than a customer
       who hasn’t made a purchase in a long time
       * Frequency refers to how many times a customer has made a purchase within a given time frame. A customer who makes purchases often is more likely to continue to come back than a customer who rarely makes
        purchases
